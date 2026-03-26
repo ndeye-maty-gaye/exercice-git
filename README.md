@@ -4,4 +4,4 @@ Bienvenue dans mon premier dépôt Git !
 Apprendre Git pas à pas.
 
 ## Auteur
-Moussa Diop - L3 GLSI
+Ndeye Maty Gaye - L3 GLSI
