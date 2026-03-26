@@ -1,0 +1,1 @@
+Ce laboratoire nous a permis d’acquérir des connaissances pratiques très importantes sur l’utilisation de Git. Nous avons appris que Git est un outil essentiel pour organiser le travail, suivre les modifications et collaborer sur un projet informatique.
